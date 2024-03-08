@@ -7,6 +7,7 @@ function App() {
     <>
     <Charts/>
     <StackChart/>
+    <div>helllo</div>
     </>
   );
 }
